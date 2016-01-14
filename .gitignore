@@ -1,0 +1,12 @@
+*.exe
+*.idb
+*.ipch
+*.obj
+*.suo
+*.pdb
+*.sdf
+*.log
+*.tlog
+
+Release/
+Debug/
